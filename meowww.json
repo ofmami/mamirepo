@@ -153,12 +153,12 @@
             "#eeeeee"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e1c1e11a",
-            "#e1c1e11a"
+            "#e1c1e13a",
+            "#e1c1e13a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e1c1e11a",
-            "#e1c1e11a"
+            "#e1c1e13a",
+            "#e1c1e13a"
         ],
         "LOGO_PRIMARY": [
             "#eeeeee",

@@ -153,12 +153,12 @@
             "#eeeeee"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e1c1e11a",
-            "#e1c1e11a"
+            "#e1c1e1",
+            "#e1c1e1"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e1c1e11a",
-            "#e1c1e11a"
+            "#e1c1e1",
+            "#e1c1e1"
         ],
         "LOGO_PRIMARY": [
             "#eeeeee",
@@ -169,8 +169,8 @@
             "#E1B6E1"
         ],
         "MENTION_FOREGROUND": [
-            "#ffdeff",
-            "#ffdeff"
+            "#ffadff",
+            "#ffadff"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",

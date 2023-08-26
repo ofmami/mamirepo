@@ -195,11 +195,15 @@
         "BRAND_500": "#E1B6E1",
         "BRAND_560": "#eeeeee",
         "BRAND_600": "#3a3a3a",
+        "BLUE_345": "#e1c1e1",
         "YELLOW_300": "#e1c1e1",
+        "ORANGE_345": "#e1c1e1",
+        "GREEN_345": "#e1c1e1",
         "GREEN_360": "#e1c1e1",
         "GREEN_600": "#E1B6E1",
         "RED_345": "#e1cae1",
         "RED_400": "#e1cae1",
+        "RED_560" : "#e1c1e1",
         "WHITE_500": "#eeeeee"
     },
     "plus": {

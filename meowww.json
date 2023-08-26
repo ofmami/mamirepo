@@ -165,12 +165,12 @@
             "#2e2e2e"
         ],
         "MENTION_BACKGROUND": [
-            "#E1B6E1",
-            "#E1B6E1"
+            "#e1c1e1",
+            "#e1c1e1"
         ],
         "MENTION_FOREGROUND": [
-            "#ffadff",
-            "#ffadff"
+            "#e1c1e1",
+            "#e1c1e1"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",

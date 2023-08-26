@@ -169,8 +169,8 @@
             "#E1B6E1"
         ],
         "MENTION_FOREGROUND": [
-            "#ffdeff",
-            "#ffdeff"
+            "#e1c1e13a",
+            "#e1c1e13a"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",

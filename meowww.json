@@ -153,24 +153,24 @@
             "#eeeeee"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e1c1e1",
-            "#e1c1e1"
+            "#e1c1e11a",
+            "#e1c1e11a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e1c1e1",
-            "#e1c1e1"
+            "#e1c1e11a",
+            "#e1c1e11a"
         ],
         "LOGO_PRIMARY": [
             "#eeeeee",
             "#2e2e2e"
         ],
         "MENTION_BACKGROUND": [
-            "#e1c1e1",
-            "#e1c1e1"
+            "#E1B6E1",
+            "#E1B6E1"
         ],
         "MENTION_FOREGROUND": [
-            "#e1c1e1",
-            "#e1c1e1"
+            "#ffdeff",
+            "#ffdeff"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",
